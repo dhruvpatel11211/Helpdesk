@@ -1,0 +1,32 @@
+{
+  "name": "helpdesk",
+  "version": "1.0.0",
+  "description": "FB helpdesk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvpatel11211/Helpdesk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvpatel11211/Helpdesk/issues"
+  },
+  "homepage": "https://github.com/dhruvpatel11211/Helpdesk#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "https-localhost": "^4.6.5",
+    "mongoose": "^5.13.6",
+    "nodemon": "^2.0.12",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
